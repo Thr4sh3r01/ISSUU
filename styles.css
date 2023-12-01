@@ -35,12 +35,32 @@ header {
     text-decoration: none;
 }
 
+
 h2 {
-    margin-left: 250px;
+    margin-left: 180px;
     margin-top: 100px;
 }
+
+
+/* Diseño Botones */
 
 .logoGoogle {
     width: 35px;
 }
 
+.logoFacebook {
+    width: 35px;
+}
+
+.botonGoogle {
+    background-color: #5086ed;
+}
+
+.botonFacebook {
+    background-color: #4968ad;
+}
+
+.botones {
+    margin-top: 30px;
+    margin-left: 180px;
+}
